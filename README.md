@@ -44,7 +44,7 @@ Additionally, it includes a light/dark mode toggle and a basic AI-powered custom
 - **Development**: 5 hours
 - **Testing and Bug Fixes**: 1 hour
 
-## Chalanges
+## challenge
 - **Theme Implementation**: Initially, we faced difficulties in implementing a smooth theme toggle between light and dark modes. After some trial and error, we utilized Tailwind CSS's built-in dark mode functionality to implement this feature successfully.
 - **Chatbot Integration**: Implementing the AI-powered customer chat widget was another challenge. We faced several errors during integration, particularly in handling the API requests. After reading through the Gemini API documentation, we were able to resolve these issues and integrate the chatbot seamlessly.
 
