@@ -18,6 +18,7 @@ Additionally, it includes a light/dark mode toggle and a basic AI-powered custom
 - **Contact / Lead Form**: Name, Email, Company, License Type (dropdown), and Message. The form includes frontend validation.
 - **Light/Dark Mode Toggle**: A smooth slider for toggling between light and dark modes.
 - **AI-Powered Customer Chat Widget**: A simple mock-up of a customer support chat feature, using an open-source wrapper or the OpenAI API.
+- **Acertnity And Shadcn/ui**: We use these tools to make the website more modern by adding features like counters and contemporary text effects.
 
 ## Design Choices
 - **Color Palette**: A modern and professional color palette was chosen to enhance readability and user experience.
