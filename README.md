@@ -86,5 +86,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Next.js](https://nextjs.org/) - The React framework used for this project.
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework used for styling.
 - [React Icons](https://react-icons.github.io/react-icons/) - Used for visual icons.
-- [OpenAI](https://openai.com/) - Used for the AI-powered chat widget.
+- [Gemini](https://aistudio.google.com/prompts/new_chat) - Used for the AI-powered chat widget.
 
